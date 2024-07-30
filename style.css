@@ -1,0 +1,56 @@
+h1{
+  color: rgb(204, 206, 207);
+  text-align:center;
+  font-size: 50px;
+  
+}
+li {
+     text-align:justify;
+    display: inline;
+    padding: 50px;
+    margin: 50px;
+    font-size: 30px;
+}
+h2{
+    background-color:  rgba(135, 250, 231, 0.507);
+    text-align:center;
+    font-size: 50px;
+font-style: oblique;
+}
+img{
+  size:5px;
+}
+ .right{
+font-size: 50px;
+background-color: rgba(252, 161, 255, 0.829);
+width: 25%;
+margin: left ;
+height: 100%;
+padding: 25px;
+  }
+.center{
+  font-size: 50px;
+    background-color: rgb(255, 203, 246);
+    width: 25%;
+    margin: left ;
+    height: 100%;
+    padding: 25px;
+ }
+.button{
+  size: 50px;
+}
+.main{
+  display: flex;
+  }
+  .left{
+    font-size: 50px;
+    background-color: rgb(245, 126, 245);
+    width: 25%;
+    margin: left ;
+    height: 100%;
+    padding: 25px;      
+  }
+  .list{
+    background-color: rgb(98, 252, 201);
+  }
+  
